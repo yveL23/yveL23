@@ -14,20 +14,20 @@
                                                                    
  <h1 align="center"> Hi there 👋 </h1>
 <div style="display:flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=yveL23&theme=react&show_icons=true&hide_border=true&count_private=true&card_width=420">
+  <img src="https://github-readme-stats.vercel.app/api?username=yveL23&theme=blue_navy&show_icons=true&hide_border=true&count_private=true&card_width=420">
 
 <a href="https://github.com/yveL23">
- <img    src="https://github-readme-streak-stats.herokuapp.com/?user=yveL23&theme=react&hide_border=true&card_width=400"> 
+ <img    src="https://github-readme-streak-stats.herokuapp.com/?user=yveL23&theme=blue_navy&hide_border=true&card_width=400"> 
 </a>
 
 <a href="https://github.com/yveL23">
-  <img    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yveL23&layout=compact&card_width=1020&theme=react&hide_border=true&"> 
+  <img    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yveL23&layout=compact&card_width=1020&theme=blue_navy&hide_border=true&"> 
 
 </a>
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yveL23&theme=react&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yveL23&theme=blue_navy&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h1 align="center"> Tecnologias que estou estudando no momento 📚 </h1> 
 <div style="display: inline_block">
