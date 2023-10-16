@@ -10,9 +10,9 @@
 - 😄 Pronouns: your choise i don't realy mind that
 - ⚡ Fun fact: My name can mean a greenish blue
 -->
-- 📫 How to reach me: levycordeiro9@gmail.com
                                                                    
  <h1 align="center"> Hi there 👋 </h1>
+- 📫 How to reach me: levycordeiro9@gmail.com
 <div style="display:flex">
   <img src="https://github-readme-stats.vercel.app/api?username=yveL23&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&card_width=420">
 
