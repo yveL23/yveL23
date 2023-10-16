@@ -21,7 +21,7 @@
 </a>
 
 <a href="https://github.com/yveL23">
-  <img    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=1020&theme=react&hide_border=true&"> 
+  <img    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yveL23&layout=compact&card_width=1020&theme=react&hide_border=true&"> 
 
 </a>
 </div>
