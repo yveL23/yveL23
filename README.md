@@ -7,10 +7,10 @@
 - 👯 I’m looking to collaborate on everything i can,especially when it comes to problem solutions
 - 🤔 I’m looking for help with to learn C++
 - 💬 Ask me about Physics,Math,Portughuese,Logic,Css,
-- 📫 How to reach me: glaucoscc@gmail.com
 - 😄 Pronouns: your choise i don't realy mind that
 - ⚡ Fun fact: My name can mean a greenish blue
 -->
+- 📫 How to reach me: levycordeiro9@gmail.com
                                                                    
  <h1 align="center"> Hi there 👋 </h1>
 <div style="display:flex">
